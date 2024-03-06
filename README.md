@@ -31,8 +31,3 @@ a software developer on an exciting journey that began four years ago when I mad
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-<a href="http://www.github.com/cmolerov"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cmolerov&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
